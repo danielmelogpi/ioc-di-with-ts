@@ -18,3 +18,5 @@ Um framework maior que implementa esses conceitos é o InversifyJs (https://gith
 
 
 O rascunho de uma pequena lib foi adicionado em lib/anarchy-injector, à ser desenvolvido durante a pesquisa
+
+![Capybara chilling](capybara.gif)
